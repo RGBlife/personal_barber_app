@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal_barber_app/static/css/main.59a477ca.css",
+    "main.js": "/personal_barber_app/static/js/main.6925bd0b.js",
+    "static/js/453.0f9dc56c.chunk.js": "/personal_barber_app/static/js/453.0f9dc56c.chunk.js",
+    "index.html": "/personal_barber_app/index.html",
+    "main.59a477ca.css.map": "/personal_barber_app/static/css/main.59a477ca.css.map",
+    "main.6925bd0b.js.map": "/personal_barber_app/static/js/main.6925bd0b.js.map",
+    "453.0f9dc56c.chunk.js.map": "/personal_barber_app/static/js/453.0f9dc56c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a477ca.css",
+    "static/js/main.6925bd0b.js"
+  ]
+}
